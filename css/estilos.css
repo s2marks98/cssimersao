@@ -1,0 +1,37 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/22/23/03/hardwood-1851071_960_720.jpg);
+    background-size: auto 100vh;
+    font-family: Verdana;
+    height: 100vh;
+    
+  }
+  
+  a {
+    color: brown;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .menu {
+    background-color: #f4eeb1
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: black;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    
+  }
